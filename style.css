@@ -35,12 +35,15 @@ html{
 
 h2{
   color: black;
+  font-family:cursive
 }
 
 #start{
   text-align: left;
+  font-family:cursive;
 }
 
 #end{
   text-align: right;
+  font-family:cursive;
 }
